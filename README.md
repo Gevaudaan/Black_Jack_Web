@@ -1,8 +1,8 @@
-# 🃏 Blackjack Web Game
+# 🃏 Blackjack Web!!!🃏
 
-> **Short Description (GitHub / Español):** Un juego de Blackjack interactivo y responsivo construido con HTML, CSS y Vanilla JavaScript. Incluye sistema de apuestas, crupier automático, modo oscuro y reglas auténticas de casino.
->
-> **Short Description (GitHub / English):** An interactive and responsive web-based Blackjack game built with HTML, CSS, and Vanilla JavaScript. Features a dynamic betting system, automated dealer, dark mode, and authentic casino rules.
+
+
+
 
 <br>
 
@@ -19,12 +19,15 @@
 
 ## 🇪🇸 Español
 
+###Description Corta (Español):
+Un juego de Blackjack interactivo y responsivo construido con HTML, CSS y Vanilla JavaScript. Incluye sistema de apuestas, crupier automático, modo oscuro y reglas auténticas de casino.
+
 ### 🚀 Características Principales
 
 - **Sistema de Apuestas:** Juega y administra tu banca utilizando fichas de diferentes valores (1$, 5$, 25$, 50$, 100$, 500$) junto a una opción de "All In" para apuestas rápidas.
 - **Lógica de Casino Real:** Valores precisos de cada carta. Los Ases valen dinámicamente 1 u 11 puntos para evitar pasarse de 21. Se incluyen las acciones clásicas: **Repartir**, **Pedir**, **Plantarse** y **Doblar**.
 - **Modo Oscuro:** Activa cómodamente el modo oscuro para sesiones de juego nocturnas, con cambios de diseño tanto en el fondo como en los botones para mantener la legibilidad y la estética.
-- **Crupier de Inteligencia Artificial Básica:** El crupier respeta la norma universal de jugar automáticamente tomando cartas hasta alcanzar al menos 17 puntos.
+- **Crupier de Inteligencia Artificial Básica:** El crupier respeta la norma universal de jugar automáticamente tomando cartas hasta alcanzar 17 puntos.
 - **Interfaz Moderna y Fluida:** Efectos de transición suaves, elementos "glassmorphism", alertas visuales al ganar/perder y una presentación impecable de las cartas sobre la mesa.
 
 ### 🛠️ Tecnologías y Herramientas
@@ -44,7 +47,7 @@
    - **Doblar (Double):** Si confías en tu mano, dobla la apuesta a cambio de tomar una última carta y darle paso al crupier.
 4. **Final de la Mano:** Si haces más puntos que el crupier sin superar 21 (o si el crupier se pasa), ganas el doble de tu apuesta.
 
-### 👥 Créditos
+### Créditos
 
 Desarrollado y mantenido por:
 -  **Agustin Aurellana**
@@ -59,6 +62,9 @@ _(5°B Info - 2024)_
 <div id="english"></div>
 
 ## 🇬🇧 English
+
+### Short Description (English):
+An interactive and responsive web-based Blackjack game built with HTML, CSS, and Vanilla JavaScript. Features a dynamic betting system, automated dealer, dark mode, and authentic casino rules.
 
 ### 🚀 Main Features
 
